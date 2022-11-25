@@ -3,7 +3,3 @@
 </p>
 <h1 align="center">Welcome to my Github page!</h1>
 <P align="center"><img src="https://github.com/ZorroDB/ZorroDB/blob/main/sao-sinon.gif" width="700px"/></p>
-<h2>A little bit about me and my interest</h2>
-<p>```yaml
-hello```
-</p>
