@@ -3,4 +3,3 @@
 </p>
 <h1 align="center">Welcome to my Github page!</h1>
 <P align="center"><img src="https://github.com/ZorroDB/ZorroDB/blob/main/sao-sinon.gif" width="700px"/></p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZorroDB&theme=python-dark)](https://git.io/streak-stats)
